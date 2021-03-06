@@ -10,21 +10,21 @@ REQUIREMENTS:
 3. Yourapplicationmustimplementatleasttworoles
 
 4. Each role must have different tasks and views within the
-application 
+application
 
 5. The application must have the option to produce reporting views
-with (custom) filters 
+with (custom) filters
 
 6. The application must have a module that permits internal
-communication between internal entities which could be (implement at least one of the following): 
+communication between internal entities which could be (implement at least one of the following):
 a. Realtimecommunicationand/or
 b. REST API
 
 7. The application must support an e-payment process that:
 
-a. Gives access to read some restricted material 
+a. Gives access to read some restricted material
 e.g.
-e-bookor 
+e-bookor
 
 b. Buy some goods,
 e.g.

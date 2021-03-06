@@ -1,2 +1,4 @@
 /target/
-/src/main/resources/
+.vscode
+apache-maven-3.6.3-bin.tar.gz
+src/main/resources/application.properties

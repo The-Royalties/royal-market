@@ -22,7 +22,7 @@
             <div class="panel-heading"><span class="lead">Addresses's List</span></div>
             <table class="table table-hover">
                 <thead id="thead">
-                    <tr>                       
+                    <tr>
                         <th>Address</th>
                         <th>City</th>
                         <th>Country</th>
